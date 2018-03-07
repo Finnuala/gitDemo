@@ -9,5 +9,4 @@ public class TriParCode implements Comparator<Examen>{
 	{
 		return a.getCode().compareTo(b.getCode());
 	}
-
 }

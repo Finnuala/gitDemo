@@ -11,7 +11,7 @@ public class Application {
 		Diplome diplome = new Diplome();
 		
 		Controle controle = new Controle();
-		controle.setNote(18);
+		controle.setNote(15);
 		controle.setAppreciation("Correct");
 		controle.setCode("TEST001");
 		controle.setDate("14/02/2018");
